@@ -12,7 +12,7 @@ API_TOKEN = "7646385695:AAFV_sgRtysXcU9hJ90nGtGQ39FT_irBGWs"
 
 # List of target channels (by username or channel ID)
 TARGET_CHANNELS = [
-    "@A1MoviescreationBot"
+    @A1MoviescreationBot
     -1002233816376,
     -1002056067443,
 ]
