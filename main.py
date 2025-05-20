@@ -18,7 +18,7 @@ TARGET_CHANNELS = [
 ]
 
 # Bot B API Token
-BOT_B_API_TOKEN = "6511502428:AAFwzUFMsFcXlI1IGPBqRbBlWs1I5OeY_pc"
+BOT_B_API_TOKEN = "6812123967:AAFX2dIWIJIFe4aahegIj6hpYqJ-o-uk2Io"
 
 def process_caption(caption: str) -> str:
     """
